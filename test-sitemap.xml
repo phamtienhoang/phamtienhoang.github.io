@@ -1,0 +1,14 @@
+<url>
+  <loc>http://www.example.com/en/product-1</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="http://www.example.com/de/product-1" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.example.com/en/product-1" />
+</url>
+<url>
+  <loc>http://www.example.com/en/product-1</loc>
+  <image:image>
+   <image:loc>http://www.example.com/image1.jpg</image:loc>
+  </image:image>
+  <image:image>
+   <image:loc>http://www.example.com/image2.jpg</image:loc>
+  </image:image>
+</url>
